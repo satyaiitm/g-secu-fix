@@ -10,6 +10,6 @@ pytest==7.4.3
 
 
 # ga2-q
-fastapi==0.115.0
+fastapi==0.129.2
 requests==2.32.3
 pandas==2.2.3
